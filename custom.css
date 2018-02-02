@@ -1,0 +1,7 @@
+// custom css from Bootstrap
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$body-bg: blue;
+$body-color: white;
+$jumbotron-bg: red;
