@@ -1,0 +1,16 @@
+{
+  "name": "twitteralpha",
+  "version": "1.0.0",
+  "description": "Twitter api intergration",
+  "main": "twitter.js",
+  "scripts": {
+    "start": "node twitter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RK",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9",
+    "express": "^4.13.3"
+  }
+}
