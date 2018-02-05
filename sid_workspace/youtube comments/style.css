@@ -7,11 +7,6 @@
 button{
     margin-top:25px;
     margin-left: 430px;
+    padding-left:12px; 
 
-}
-#thumbnail{
-    border-radius: 50%;
-    margin-left:540px;
-    margin: 30px;
-    
 }
