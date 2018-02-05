@@ -1,0 +1,17 @@
+#search{
+    background-color :#fff;
+    width: 500px;
+    padding-left: 13px;
+    margin: auto;
+}
+button{
+    margin-top:25px;
+    margin-left: 430px;
+
+}
+#thumbnail{
+    border-radius: 50%;
+    margin-left:540px;
+    margin: 30px;
+    
+}
