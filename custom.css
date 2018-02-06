@@ -1,7 +1,15 @@
-// custom css from Bootstrap
-
-@import "node_modules/bootstrap/scss/bootstrap";
-
-$body-bg: blue;
-$body-color: white;
-$jumbotron-bg: red;
+.containerr{
+    width: 100%;
+    float: left;
+    border: solid 1px blue;
+    text-align: center;
+}
+.containerr button{
+    display: inline-block;
+}
+#collContent{
+    float:left;
+}
+#btn3{
+    float:right;
+}
